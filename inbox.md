@@ -10,3 +10,13 @@
 - Some notes don't end up making sense the next day
 - That's ok, you can just delete them!
   - You can always find them in your git history, if you really need it!
+
+- [ ] testing
+- Test from vscode web
+
+[backlinking](docs/features/backlinking.md)
+
+[drag-drop](docs/getting-started/write-notes-in-foam.md)
+
+[gatsby](docs/publishing/generate-gatsby-site.md)
+
